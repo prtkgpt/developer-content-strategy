@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Developer Content as a Service
 
-You can use the [editor on GitHub](https://github.com/prtkgpt/developercontentstrategy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Solves the problem of every technical leader trying to gain traction and community around their technolgy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you're a tech-startup and regularly pushing code and updates to your repo but not getting enough traffic and signups, you're not alone. Every startup faces a wide & complex issues with their content strategy because non-technical marketing teams exhaust resources towards blog posts, white-papers, and social media noise. None is this really works for startup with technology as their core products.
 
-### Markdown
+SEO is a wide, complex, and at times frustating aspects of internet marketing, buts it's one that you can't afford of ignore. Because your audience is relatively smaller than a consumer startup with either product or a service.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Seeking Help!
 
-# Header 1
-## Header 2
-### Header 3
+I am an entrepreneur with 7 years of Startup experience in management capacity. I was Director of Written Production at [Pluralsight](www.pluralsight.com) for last 3 years where I lead the developer content in written tutorials & how-to format from 0 pageviews to 1 million pageviews with 80% organic traffic without spending more than $1000 in marketing.
 
-- Bulleted
-- List
+I bring extensive knowledge of SEO for developer content strategy to help technology startups, and expertise to execute the launch of developer content initiatives from scratch. There are over 2000 developers (authors) in my author network who are experienced with any technical stack possible to produce high quality technical content.
 
-1. Numbered
-2. List
+I am based in San Francisco Bay Area in California. If you're a ramen-entrepreneur, I am happy to advice.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prtkgpt/developercontentstrategy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can [schedule a 15 mins call with Prateek Gupta](https://calendly.com/prateekgupta/) or say hi at prateek@PrateekGupta.org.
