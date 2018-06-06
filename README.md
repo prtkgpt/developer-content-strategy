@@ -1,6 +1,6 @@
 ## Developer Content as a Service
 
-Solves the problem of every technical leader trying to gain traction and community around their technolgy.
+This is the problem of every technical leader trying to gain traction and community around their technolgy.
 
 If you're a tech-startup and regularly pushing code and updates to your repo but not getting enough traffic and signups, you're not alone. Every startup faces a wide & complex issues with their content strategy because non-technical marketing teams exhaust resources towards blog posts, white-papers, and social media noise. None is this really works for startup with technology as their core products.
 
