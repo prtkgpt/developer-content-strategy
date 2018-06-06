@@ -15,4 +15,4 @@ I bring extensive knowledge of SEO for developer content strategy to help techno
 
 I am based in San Francisco Bay Area in California. If you're a ramen-entrepreneur, I am happy to advice.
 
-You can [schedule a 15 mins call with Prateek Gupta](https://calendly.com/prateekgupta/) or say hi at prateek@PrateekGupta.org.
+You can [schedule a 15 mins call with Prateek Gupta](https://calendly.com/prateekgupta/) or say hi at prateek@prateekgupta.org.
