@@ -4,7 +4,7 @@ Gaining traction and community around their technology for any tech startup is k
 
 If you’re a tech-startup and regularly pushing code and updates to your repo but not getting enough traffic and signups, you’re not alone. 
 
-Every startup faces broad & complex issues with their content strategy because non-technical marketing teams exhaust resources towards traditional marketing. Most of this effort as an experiment turns into a learn to write about on medium. It doesn't really works for startups with technology as their core products.
+Every startup faces broad & complex issues with their content strategy because non-technical marketing teams exhaust resources towards traditional marketing. Most of this effort as an experiment turns into a learn to write about on medium. It doesn't really works all the time for startups with technology.
 
 SEO is a wide, complex, and at times frustrating aspects of marketing on the internet, buts its *the* one that you can’t afford of ignore. Because your audience is relatively smaller than any other business for consumers.
 
